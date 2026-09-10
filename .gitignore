@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.netlify/
+.vercel/
+.tanstack/
+.env
+.env.*
+!.env.example
+screenshots/
+*.log
